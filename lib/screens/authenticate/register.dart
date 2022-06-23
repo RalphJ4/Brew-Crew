@@ -29,7 +29,7 @@ class _RegisterState extends State<Register> {
       appBar: AppBar(
         backgroundColor: Colors.brown[400],
         elevation: 0.0,
-        title: const Text("Sign Up to Ralph's Brew Crew"),
+        title: const Text("Sign up to Ryuu's Brew Crew"),
         actions: <Widget>[
           TextButton.icon(
               icon: const Icon(Icons.person),

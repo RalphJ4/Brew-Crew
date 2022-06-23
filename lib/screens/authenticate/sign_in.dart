@@ -29,7 +29,7 @@ class _SignInState extends State<SignIn> {
       appBar: AppBar(
         backgroundColor: Colors.brown[400],
         elevation: 0.0,
-        title: const Text("Sign in to Ralph's Brew Crew"),
+        title: const Text("Sign in to Ryuu's Brew Crew"),
         actions: <Widget>[
           TextButton.icon(
               icon: const Icon(Icons.person),
